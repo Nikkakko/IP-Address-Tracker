@@ -28,7 +28,7 @@ Device 375px/800px
 ### Links
 
 - Solution URL: [GitHub](https://github.com/Nikkakko/IP-Address-Tracker)
-- Live Site URL: (https://app.netlify.com/sites/nikako-ip-addres-tracker/settings/general)
+- Live Site URL: [Netlify](https://nikako-ip-addres-tracker.netlify.app/)
 
 ## My process
 
