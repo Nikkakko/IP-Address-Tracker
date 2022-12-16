@@ -86,6 +86,7 @@ const StyledInfoContainer = styled.div`
     text-align: center;
 
     padding: 26px 24px 24px;
+    // padding added
   }
 
   @media (max-width: 375px) {
