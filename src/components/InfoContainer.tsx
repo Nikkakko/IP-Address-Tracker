@@ -74,18 +74,22 @@ const StyledInfoContainer = styled.div`
   border-radius: 15px;
   /* eff */
 
-  @media (max-width: 375px) {
+  @media (max-width: 425px) {
     width: 327px;
     height: 294px;
     /* max-height: 334px; */
     /* height: auto; */
-    left: 24px;
+    left: 50px;
     top: 177px;
     flex-direction: column;
     justify-content: space-around;
     text-align: center;
 
     padding: 26px 24px 24px;
+  }
+
+  @media (max-width: 375px) {
+    left: 24px;
   }
 
   @media (min-width: 1900px) {
@@ -104,7 +108,7 @@ const StyledInfoContainer = styled.div`
     color: #2c2c2c;
     margin-top: 13px;
 
-    @media (max-width: 375px) {
+    @media (max-width: 425px) {
       font-weight: 500;
       font-size: 20px;
       line-height: 24px;
@@ -124,7 +128,7 @@ const StyledInfoContainer = styled.div`
     mix-blend-mode: normal;
     opacity: 0.5;
 
-    @media (max-width: 375px) {
+    @media (max-width: 425px) {
       font-weight: 700;
       font-size: 10px;
       line-height: 12px;
@@ -189,7 +193,7 @@ const Line = styled.div`
   opacity: 0.15;
   /* display: flex; */
 
-  @media (max-width: 375px) {
+  @media (max-width: 425px) {
     width: 0px;
   }
 `;

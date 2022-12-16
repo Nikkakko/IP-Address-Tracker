@@ -43,7 +43,7 @@ const NewMap = styled.div`
   @import url('~leaflet/dist/leaflet.css');
 
   .leaflet-container {
-    width: 375px;
+    width: 425px;
     height: 79vh;
     z-index: -1;
   }

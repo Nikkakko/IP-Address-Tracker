@@ -55,7 +55,7 @@ const Background = styled.img`
   width: 100%;
   object-fit: cover;
 
-  @media (max-width: 375px) {
+  @media (max-width: 425px) {
     height: 300px;
   }
 `;
@@ -105,7 +105,7 @@ const Input = styled.input`
     outline: none;
   }
 
-  @media (max-width: 375px) {
+  @media (max-width: 425px) {
     width: 327px;
     height: 58px;
 
@@ -160,7 +160,7 @@ const Error = styled.p`
   line-height: 21px;
   opacity: 0.5;
 
-  @media (max-width: 375px) {
+  @media (max-width: 425px) {
     font-size: 14px;
     top: 40px;
   }
